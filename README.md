@@ -1,16 +1,12 @@
+
 ### Hi there 👋
+### I'm Edoardo!
 
-<!--
-**EdoardoMorucci/EdoardoMorucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Currently, I'm a Machine Learning Engineer at Gemmo AI
+- 🎓 Graduated with honors in Master of AI and Data Engineering
+- 🎓 Bachelor's degree in Computer Engineering
+- 🌱 Always learning and staying updated in the field of AI
+- 👯 Open to collaborations and exciting AI projects
+- 🏀 Passionate basketball player who thrives on teamwork
+- 💬 Feel free to ask me about AI, basketball, or anything else!
+- 📫 You can reach out to me on my LinkedIn Profile
