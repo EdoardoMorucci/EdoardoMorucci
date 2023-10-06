@@ -8,5 +8,6 @@
 - 🌱 Always learning and staying updated in the field of AI
 - 👯 Open to collaborations and exciting AI projects
 - 🏀 Passionate basketball player who thrives on teamwork
+- 📸 Enthusiastic about photography 
 - 💬 Feel free to ask me about AI, basketball, or anything else!
 - 📫 You can reach out to me on my LinkedIn Profile
